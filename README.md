@@ -6,7 +6,7 @@ This resource consolidates experimental data on peptides that trigger an immune 
 **Web Server:** https://webs.iiitd.edu.in/raghava/cdpred/index.php
 
 ## Citation
-Tomer R, Patiyal S, Dhall A and Raghava GPS (2023) Prediction of celiac disease associated epitopes and motifs in a protein. Front. Immunol. 14:1056101. doi: 10.3389/fimmu.2023.1056101
+Tomer R, Patiyal S, Dhall A and Raghava GPS (2023) Prediction of celiac disease associated epitopes and motifs in a protein. Front. Immunol. 14:1056101. doi: [10.3389/fimmu.2023.1056101](https://doi.org/10.3389/fimmu.2023.1056101)
 
 This dataset can also be found on Zenodo at
 
