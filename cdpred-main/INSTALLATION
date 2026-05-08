@@ -1,0 +1,13 @@
+1. Prerequest
+==========
+--In order to run this program user should have Python3, library scikit-learn.
+
+2. Download Site
+=================
+URL: https://webs.iiitd.edu.in/raghava/cdpred/standalone.php
+
+3. Unzip/Untar
+
+4. Change dir to cdpred
+
+5. python cdpred.py -h (Minimum Usage)

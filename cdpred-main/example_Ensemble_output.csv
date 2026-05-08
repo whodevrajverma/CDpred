@@ -1,0 +1,8 @@
+Seq_ID,Sequence,Hit Found,ML_Score,Prediction
+seq1,QQYPLGQGSFRPSQQNPQA,No hit found,0.85,Disease Causing
+seq2,YTNDLSMASLGVAAVAIAVL,No hit found,0.02,Disease non-causing
+seq3,SQQPYLQLQPFPQPQLPYSQ,Hit found,-,Disease Causing
+seq4,VEGAGDTDAIAGRVA,No hit found,0.01,Disease non-causing
+seq5,DPYYDPTSSPSEIGP,No hit found,0.37,Disease Causing
+seq6,DTTVAPAGTQAIIDT,No hit found,0.08,Disease non-causing
+seq7,QQLPQPQQPQQSFPQQQRPF,Hit found,-,Disease Causing

@@ -1,0 +1,8 @@
+Seq_ID,Sequence,Abundance,Prediction
+seq1,QQYPLGQGSFRPSQQNPQA,0.8,Disease Causing
+seq2,YTNDLSMASLGVAAVAIAVL,0.0,Disease non-causing
+seq3,SQQPYLQLQPFPQPQLPYSQ,0.8,Disease Causing
+seq4,VEGAGDTDAIAGRVA,0.0,Disease non-causing
+seq5,DPYYDPTSSPSEIGP,0.4,Disease non-causing
+seq6,DTTVAPAGTQAIIDT,0.4,Disease non-causing
+seq7,QQLPQPQQPQQSFPQQQRPF,1.0,Disease Causing
