@@ -2,8 +2,9 @@
 
 **CDpred** is a comprehensive, manually curated database and analysis platform dedicated to the identification and study of epitopes and motifs associated with celiac disease.
 This resource consolidates experimental data on peptides that trigger an immune response in celiac disease patients, providing a critical tool for researchers working on diagnostics, therapeutics, and safe food product development.
-*Dataset* -> cdpred
-*Model & Scripts* -> cdpred-main
+**Dataset** -> cdpred
+
+**Model & Scripts** -> cdpred-main
 
 **Web Server:** https://webs.iiitd.edu.in/raghava/cdpred/index.php
 
