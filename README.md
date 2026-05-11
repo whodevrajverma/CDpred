@@ -24,6 +24,8 @@ Celiac disease is a chronic autoimmune disorder triggered by the ingestion of gl
 
 * **Motif Identification:** Systematic analysis was conducted to identify recurring motifs, resulting in a collection of unique motifs.
 
+
+## Note
 * **Please convert all the .fasta files in.rtf format or download it directly from the server.**
 
 
