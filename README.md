@@ -26,7 +26,7 @@ Celiac disease is a chronic autoimmune disorder triggered by the ingestion of gl
 
 
 ## Note
-* **Please convert all the .fasta files in.rtf format or download it directly from the server.**
+* **Please convert all the cdpred folder ".fasta" files in ".rtf" format.**
 
 
 
